@@ -1,3 +1,6 @@
 [submodule "CA1-Identity-Verification-System-Over-IOT"]
 	path = CA1-Identity-Verification-System-Over-IOT
 	url = https://github.com/sina-tb/CA1-Identity-Verification-System-Over-IOT.git
+[submodule "CA2-Motion-Based-Authentication"]
+	path = CA2-Motion-Based-Authentication
+	url = https://github.com/sina-tb/CA2-Motion-Based-Authentication.git
